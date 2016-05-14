@@ -101,7 +101,7 @@ public class MainActivity extends Activity {
         if (mInterstitialAd != null && mInterstitialAd.isLoaded()) {
             mInterstitialAd.show();
         } else {
-            Toast.makeText(this, "Ad did not load", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Ad did not load here", Toast.LENGTH_SHORT).show();
             goToNextLevel();
         }
     }
