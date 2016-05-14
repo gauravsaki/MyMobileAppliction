@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
     // Remove the below line after defining your own ad unit ID.
-    private static final String TOAST_TEXT = "Simple ad example here. "
+    private static final String TOAST_TEXT = "Simple ad example here. I had commited code. "
             + "To show live ads, replace the ad unit ID in res/values/strings.xml with your own ad unit ID.";
 
     private static final int START_LEVEL = 1;
